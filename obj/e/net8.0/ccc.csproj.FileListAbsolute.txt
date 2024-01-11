@@ -1,0 +1,14 @@
+C:\Users\windows\Documents\ccc\bin\e\net8.0\ccc.exe
+C:\Users\windows\Documents\ccc\bin\e\net8.0\ccc.deps.json
+C:\Users\windows\Documents\ccc\bin\e\net8.0\ccc.runtimeconfig.json
+C:\Users\windows\Documents\ccc\bin\e\net8.0\ccc.dll
+C:\Users\windows\Documents\ccc\bin\e\net8.0\ccc.pdb
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ccc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ccc.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ccc.AssemblyInfo.cs
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ccc.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ccc.dll
+C:\Users\windows\Documents\ccc\obj\e\net8.0\refint\ccc.dll
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ccc.pdb
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ccc.genruntimeconfig.cache
+C:\Users\windows\Documents\ccc\obj\e\net8.0\ref\ccc.dll
